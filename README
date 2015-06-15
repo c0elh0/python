@@ -1,6 +1,6 @@
 This project contains 1 file:
 a) classPathHacker
 
-This file is for Jython coders who need to add new jars are runtime. This acts in
+This file is for Jython coders who need to add new jars at runtime. This acts in
 addition to any exiting jars which were in the Classpath
 
